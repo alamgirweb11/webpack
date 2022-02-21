@@ -1,3 +1,3 @@
 import functions from './functions.js';
-functions.yourName('Alamgir Hosen');
-functions.yourAge(22);
+functions.yourName('Test');
+functions.yourAge(26);

@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
   \*************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _functions_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./functions.js */ \"./src/js/functions.js\");\n\r\n_functions_js__WEBPACK_IMPORTED_MODULE_0__[\"default\"].yourName('Alamgir Hosen');\r\n_functions_js__WEBPACK_IMPORTED_MODULE_0__[\"default\"].yourAge(22);\n\n//# sourceURL=webpack://webpack/./src/js/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _functions_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./functions.js */ \"./src/js/functions.js\");\n\r\n_functions_js__WEBPACK_IMPORTED_MODULE_0__[\"default\"].yourName('Test');\r\n_functions_js__WEBPACK_IMPORTED_MODULE_0__[\"default\"].yourAge(26);\n\n//# sourceURL=webpack://webpack/./src/js/index.js?");
 
 /***/ })
 
